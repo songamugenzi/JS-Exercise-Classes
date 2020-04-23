@@ -41,7 +41,9 @@ class Airplane {
 */
 
 class Person {
+  constructor(attributes) {
 
+  }
 }
 
 /*
